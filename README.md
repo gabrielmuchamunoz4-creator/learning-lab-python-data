@@ -60,3 +60,9 @@ Actualmente se están practicando:
 * Organización básica de un repositorio
 
 Este repositorio crecerá progresivamente junto con el roadmap de aprendizaje.
+## Próximos temas
+
+- Terminal y rutas
+- Git y GitHub
+- PostgreSQL
+- Fundamentos de Python
